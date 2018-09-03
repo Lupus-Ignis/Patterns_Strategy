@@ -1,0 +1,7 @@
+C:\Users\Tore\source\repos\Patterns_Strategy\Patterns_Strategy\bin\Debug\Patterns_Strategy.exe.config
+C:\Users\Tore\source\repos\Patterns_Strategy\Patterns_Strategy\bin\Debug\Patterns_Strategy.exe
+C:\Users\Tore\source\repos\Patterns_Strategy\Patterns_Strategy\bin\Debug\Patterns_Strategy.pdb
+C:\Users\Tore\source\repos\Patterns_Strategy\Patterns_Strategy\obj\Debug\Patterns_Strategy.csprojAssemblyReference.cache
+C:\Users\Tore\source\repos\Patterns_Strategy\Patterns_Strategy\obj\Debug\Patterns_Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Tore\source\repos\Patterns_Strategy\Patterns_Strategy\obj\Debug\Patterns_Strategy.exe
+C:\Users\Tore\source\repos\Patterns_Strategy\Patterns_Strategy\obj\Debug\Patterns_Strategy.pdb
